@@ -1,6 +1,6 @@
 {
   "name": "@n3x1y1/library",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "homepage": "https://github.com/N3X1Y1/library#readme",
   "bugs": {
@@ -15,7 +15,9 @@
   "type": "commonjs",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist/**/*"],
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "build": "tsc"
   },
