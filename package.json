@@ -1,0 +1,25 @@
+{
+  "name": "@n3x1y1/library",
+  "version": "0.1.0",
+  "description": "",
+  "homepage": "https://github.com/N3X1Y1/library#readme",
+  "bugs": {
+    "url": "https://github.com/N3X1Y1/library/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N3X1Y1/library.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist/**/*"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+}
